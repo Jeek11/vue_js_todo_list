@@ -68,7 +68,7 @@ onMounted(() => {
 				
 				
 
-				
+								git status
 
 				<input type="submit" value="Add todo" />
 			</form>
